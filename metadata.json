@@ -1,0 +1,6 @@
+{
+  "name": "TalentRouter",
+  "description": "An AI-powered candidate routing and screening platform that automatically routes talent across communication channels (Telegram, Slack, Web) and runs intelligent interview simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
